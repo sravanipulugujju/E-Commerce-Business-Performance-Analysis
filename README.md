@@ -49,7 +49,6 @@ Raw Data → Data Cleaning (Python) → EDA (Python) → Business Queries (SQL)
 
 ## 🧹 1. Data Cleaning
 
-**Notebook:** [`ecommerce_cleaning_code.ipynb`](./ecommerce_cleaning_code.ipynb)
 
 - Loaded the raw dataset and explored structure, data types, and null counts
 - Handled missing values column by column:
@@ -62,7 +61,6 @@ Raw Data → Data Cleaning (Python) → EDA (Python) → Business Queries (SQL)
 
 ## 📊 2. Exploratory Data Analysis (EDA)
 
-**Notebook:** [`EDA_Ecommerce_Project.ipynb`](./EDA_Ecommerce_Project.ipynb)
 
 Visual analysis (Matplotlib / Seaborn) answering:
 
@@ -75,7 +73,6 @@ Visual analysis (Matplotlib / Seaborn) answering:
 
 ## 🗃️ 3. SQL Analysis
 
-**Notebook:** [`ecommerce_cleaned_project.sql`](./ecommerce sql analysis.sql) (MySQL)
 
 10 business questions solved with `GROUP BY`, subqueries, and window-style aggregation:
 
@@ -94,13 +91,11 @@ Visual analysis (Matplotlib / Seaborn) answering:
 
 ## 📈 4. Excel Analysis
 
-**Workbook:** [`ecommerce_excel_analysis.xlsx`](./ecommerce_excel_analysis.xlsx)
 
 Pivot-table views (Category, City, Payment Mode) for stakeholders who prefer Excel over code/SQL.
 
 ## 📊 5. Power BI Dashboard
 
-**File:** [`ecommerce_dashboard.pbix`](./ecommerce_dashboard.pbix)
 
 Interactive dashboard consolidating sales, profit, discount impact, regional performance, and payment-mode distribution into a single view for business stakeholders.
 
