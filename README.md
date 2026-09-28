@@ -75,7 +75,7 @@ Visual analysis (Matplotlib / Seaborn) answering:
 
 ## 🗃️ 3. SQL Analysis
 
-**Script:** [`ecommerce_cleaned_project.sql`](./ecommerce sql analysis.sql) (MySQL)
+**Notebook:** [`ecommerce_cleaned_project.sql`](./ecommerce sql analysis.sql) (MySQL)
 
 10 business questions solved with `GROUP BY`, subqueries, and window-style aggregation:
 
