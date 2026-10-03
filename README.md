@@ -112,7 +112,7 @@ Interactive dashboard consolidating sales, profit, discount impact, regional per
 - 💳 **UPI is the most-used payment mode** (8,124 orders, ~20.3%), narrowly ahead of Net Banking, Debit Card, Credit Card, and Cash on Delivery — reflecting India's shift toward digital-first payments.
 - 📅 Clear **month-over-month seasonality** is visible in sales trends (see EDA notebook / dashboard for peak months).
 
-*(Figures pulled directly from the cleaned dataset — see the SQL/Excel files for the full breakdown.)*
+
 
 ---
 
