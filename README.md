@@ -143,4 +143,4 @@ Interactive dashboard consolidating sales, profit, discount impact, regional per
 
 Built as an end-to-end data analytics case study — covering the full pipeline from raw data to a stakeholder-ready dashboard. Feedback and suggestions are welcome — feel free to fork, explore, and reach out!
 
-⭐ **If you found this useful, consider starring the repo!**
+
