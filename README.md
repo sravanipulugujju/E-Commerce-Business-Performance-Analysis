@@ -99,8 +99,8 @@ Pivot-table views (Category, City, Payment Mode) for stakeholders who prefer Exc
 
 Interactive dashboard consolidating sales, profit, discount impact, regional performance, and payment-mode distribution into a single view for business stakeholders.
 
-> 💡 *Add a dashboard screenshot here for extra impact:*
-> `![Dashboard Preview](./assets/dashboard_preview.png)`
+> 
+>
 
 ---
 
